@@ -1,6 +1,7 @@
 # skyholemarkup
 
-<img src="https://forum.aerocene.org/uploads/db8987/original/1X/9678567eef659781f3a13e497ec7d33f653a2cd3.JPG">
+<img src="https://aerocene.org/wp-content/uploads/2019/07/Aeroglyph-coloured-variable-II.jpg">
+
 
 Welcome! This is a repository of modified KML files that we use at Aerocene Foundation to visualize the trajectories of tethered and free-flight aerosolar balloons.
 
